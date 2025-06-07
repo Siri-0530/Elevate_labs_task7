@@ -8,11 +8,11 @@ This project demonstrates:
 - Model evaluation with classification report and cross-validation.
 
 ## Files
-- `svm_classification.py`: Main script.
+- `Task7.ipynb`: Main script.
 - `breast-cancer.csv`: Dataset file (you must place it in the same folder).
 
 ## How to Run
 ```bash
 pip install pandas scikit-learn matplotlib
-python svm_classification.py
+python Task7.ipynb
 ```
